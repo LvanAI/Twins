@@ -1,0 +1,1 @@
+from .get_twins import small_twins_model
